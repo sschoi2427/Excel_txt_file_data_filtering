@@ -27,7 +27,7 @@ xlrd 패키지와 xlwt 패키지를 활용한 엑셀 데이터 필터링
     각 폴더의 텍스트파일들을 모두 읽어 각 폴더 안의 text0.txt로 통합합니다.
 
 
-    3) ex05_inte_all.py
+    3) ex05_inte_all1.py
     각 폴더 안의 text0.txt를 모두 읽어 new_text0.txt로 통합합니다.
 
 
