@@ -1,4 +1,4 @@
-# Lee-seung-jae
+
 xlrd 패키지와 xlwt 패키지를 활용한 엑셀 데이터 필터링
 
 사용방법
